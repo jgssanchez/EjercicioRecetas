@@ -1,0 +1,27 @@
+{
+  "Recetas": [
+    {
+      "nombreRecetas": "Pollo al Horno",
+      "imagen": "https://www.paulinacocina.net/wp-content/uploads/2021/12/pollo-al-horno-con-verduras.jpg",
+      "ingredientes": "pollo, fuego, horno, limon",
+      "instrucciones": "poner limon al pollo, fuego en el horno y merter el pollo adentro",
+      "descripcion": "pollo al horno",
+      "id": "1"
+    },
+    {
+      "nombreRecetas": "papas fritas",
+      "imagen": "https://i.blogs.es/b88670/patatas_fritas/1366_2000.jpg",
+      "ingredientes": "papas fuego aceite",
+      "instrucciones": "cortar las papas\nprender el fuego\nponer sarten\nvertir el aceite\ncuando el aceite caliente introducir las papas\ncontrolar que no se quemen y disfrutar.",
+      "descripcion": "papas fritas ricas",
+      "id": "a5da"
+    }
+  ],
+  "usuarios": [
+    {
+      "email": "",
+      "password": "",
+      "id": ""
+    }
+  ]
+}
